@@ -16,7 +16,7 @@ Bước 1: Create a Virtual Environment
 ```
 python -m venv openvino_env
 ```
-Bước 2: python -m venv openvino_env
+Bước 2: Activate the Environment
 ```
 openvino_env\Scripts\activate
 ```
